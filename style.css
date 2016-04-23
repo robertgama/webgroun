@@ -5,6 +5,10 @@ body{
     	text-align: center;
 }
 
+.top-menu{
+	background: 696969;
+}
+
 .projectName{
     float: left;
     margin-left:15px;
