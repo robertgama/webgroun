@@ -16,9 +16,11 @@ body{
      }	
 
 footer{
+	color: white;
 	background:#1A1A1A;
 	width: 100%;
 	height: 50px;
+	position: block;
 }
 
 a {
