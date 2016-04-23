@@ -3,6 +3,11 @@ body{
 	height: 1200px;
 }
 
+.top-menu{
+	color:#FFF;
+    	font-size: 2rem;
+    	padding:0.5rem 0;
+}
 
 #main{
 	background:#1A1A1A;
