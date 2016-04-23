@@ -2,10 +2,10 @@ body{
 	font-family: Century;
 	margin: 0 auto;
     	padding: 0 auto;
-    	 text-align: center;
+    	text-align: center;
 }
 
-.custom-navbar-fixed-top{
+@.custom-navbar-fixed-top{
     position: fixed;
     width: 100%;
     color: #ffffff;
@@ -20,7 +20,7 @@ body{
     color: rgba(1, 1, 1, 0.8);
 }
 
-.custom-navbar-fixed-top a {
+@.custom-navbar-fixed-top a {
 	font-size: 14px;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -28,7 +28,7 @@ body{
 	text-decoration: none;
 }
 
-.custom-navbar-fixed-top a:hover {
+@.custom-navbar-fixed-top a:hover {
 	color: grey;
 } 
 
