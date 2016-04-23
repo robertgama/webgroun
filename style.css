@@ -14,6 +14,14 @@ body{
     margin-left:15px;
 }
 
+.menu-items{
+	right: 0px;
+    	display: inline-block;
+    	margin-right: 1rem;
+    	float:right;
+    	clear: both;
+}
+
 .banner{
     height:200px;
     width: 100%;
