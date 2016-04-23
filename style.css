@@ -12,6 +12,11 @@ body{
     	
 }
 
+@font-face { 
+    font-family: Century;
+    src: url('GOTHIC.ttf');
+    } 
+
 #main{
 	background:#1A1A1A;
 	width: 100%;
