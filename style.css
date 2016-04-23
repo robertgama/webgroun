@@ -28,7 +28,7 @@ body{
     height:200px;
     background: #696969;
     margin-top: 5px;
-    position: absolute;
+    display: block;
 }
 
 ul {
