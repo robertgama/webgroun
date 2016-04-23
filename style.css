@@ -8,13 +8,13 @@ body{
 .top-menu{
 	color:#FFF;
     	font-size: 2rem;
-    	margin-top: 5px;
+    	margin-top: 2px;
 }
 
 #main{
 	background:#1A1A1A;
 	width: 100%;
-	height: 50px;
+	height: 30px;
 }	
 
 a {
