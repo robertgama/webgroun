@@ -8,7 +8,8 @@ body{
 .top-menu{
 	color:#FFF;
     	font-size: 2rem;
-    	margin-top: 2px;
+    	margin: 0;
+    	padding: 0;
 }
 
 #main{
