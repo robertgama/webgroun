@@ -11,6 +11,7 @@ body{
 	position: fixed;
 	text-align: center;
 	margin: 0px 0px 2px 0px;
+	display: block;
 }
 
 .projectName{
@@ -29,7 +30,7 @@ body{
     height:200px;
     background: #696969;
     margin: 2px 0px 0px 0px;
-    position: absolute;
+    position: relative;
 }
 
 ul {
