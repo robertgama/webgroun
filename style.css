@@ -9,6 +9,7 @@ body{
 	width: 100%;
 	background-color: rgba(1, 1, 1, 0.8);
 	position: fixed;
+	text-align: center;
 }
 
 .projectName{
@@ -19,8 +20,8 @@ body{
 .menu-items{
 	display: inline-block;
 	color: #0088cc;
-    	clear: both;
     	text-align: center;
+    	clear: both;
 }
 
 .banner{
