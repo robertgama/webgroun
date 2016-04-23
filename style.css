@@ -1,6 +1,8 @@
 body{
 	width: 100%;
 	height: 1200px;
+	font-family: Century;
+	padding:20px;
 }
 
 .top-menu{
