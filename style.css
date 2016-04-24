@@ -10,6 +10,7 @@ body{	font-family: Century;
 .banner{
 	clear: both;
 	color: #0088cc;
+	color: #FF8C00;
     	height:200px;
     	background: #FFFFFF;
     	margin: 15px 0px 0px 0px;
@@ -34,6 +35,7 @@ body{	font-family: Century;
 .menu-items{
 	display: inline-block;
 	color: #0088cc;
+	color: #FF8C00;
     	text-align: center;
     	margin: 0px 0px 0px 30px;
 }
