@@ -9,8 +9,8 @@ body{	font-family: Century;
 .banner{
 	clear: both;
     	height:200px;
-    	background: #696969;
-    	margin-top: 5px;
+    	background: #FFFFFF;
+    	margin-top: 60px;
     	padding-top: 5px;
 }
 
@@ -20,6 +20,7 @@ body{	font-family: Century;
 	position: relative;
 	text-align: center;
 	margin: 0px 0px 5px 0px;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 .projectName{
