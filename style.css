@@ -30,11 +30,11 @@ body{	font-family: Century;
 .projectName{
     float: left;
     margin: 0px 50px 0px 30px;
+    color: #FF8C00;
 }
 
 .menu-items{
 	display: inline-block;
-	color: #0088cc;
 	color: #FF8C00;
     	text-align: center;
     	margin: 0px 0px 0px 30px;
