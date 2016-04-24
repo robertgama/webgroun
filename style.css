@@ -12,6 +12,7 @@ body{	font-family: Century;
     	background: #FFFFFF;
     	margin-top: 60px;
     	padding-top: 5px;
+    	background-color: rgba(1, 1, 1, 0.8);
 }
 
 #top-menu{
