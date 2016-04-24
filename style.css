@@ -18,7 +18,7 @@ body{
     margin-left:15px;
 }
 
-.menu-items{
+header.menu-items{
 	display: inline-block;
 	color: #0088cc;
     	text-align: center;
