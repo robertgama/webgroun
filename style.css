@@ -10,7 +10,7 @@ body{
 	background-color: rgba(1, 1, 1, 0.8);
 	position: fixed;
 	text-align: center;
-	margin: 0px 0px 15px 0px;
+	margin: 0px 0px 60px 0px;
 	float: left;
 }
 
@@ -23,14 +23,13 @@ body{
 	display: inline-block;
 	color: #0088cc;
     	text-align: center;
-    	clear: both;
 }
 
 .crean {
 	clear: both;	
 }
 
-banner{
+.banner{
     height:200px;
     background: #696969;
     margin-top: 60px;
