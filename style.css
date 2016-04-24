@@ -30,10 +30,11 @@ body{
 }
 
 .banner{
-    height:200px;
-    background: #696969;
-    margin-top: 60px;
-    padding-top: 60px;
+	clear: both;
+    	height:200px;
+    	background: #696969;
+    	margin-top: 60px;
+    	padding-top: 60px;
     
 }
 
