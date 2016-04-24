@@ -1,8 +1,17 @@
-body{
-	font-family: Century;
+body{	font-family: Century;
 	margin: 0 auto;
     	padding: 0 auto;
-    	text-align: center;
+    	text-align: center;}
+
+#wrapper{
+	position: relative;
+}
+.banner{
+	clear: both;
+    	height:200px;
+    	background: #696969;
+    	margin-top: 60px;
+    	padding-top: 60px;
 }
 
 #top-menu{
@@ -27,19 +36,6 @@ body{
 
 .crean {
 	clear: both;	
-}
-
-.banner{
-	clear: both;
-    	height:200px;
-    	background: #696969;
-    	margin-top: 60px;
-    	padding-top: 60px;
-    
-}
-
-#wrapper{
-	position: relative;
 }
 
 ul {
