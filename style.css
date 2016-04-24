@@ -10,8 +10,7 @@ body{	font-family: Century;
 .banner{
 	clear: both;
 	color: #0088cc;
-	color: #FF8C00;
-    	height:200px;
+	height:200px;
     	background: #FFFFFF;
     	margin: 15px 0px 0px 0px;
     	padding-top: 5px;
@@ -25,6 +24,7 @@ body{	font-family: Century;
 	text-align: center;
 	margin: 0px 0px 5px 0px;
 	box-shadow: 0px 10px 10px #888888;
+	color: #FF8C00;
 }
 
 .projectName{
