@@ -38,6 +38,10 @@ body{
     
 }
 
+#wrapper{
+	position: relative;
+}
+
 ul {
 	margin:5px;
 	padding: 10px;
