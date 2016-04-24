@@ -18,14 +18,14 @@ body{
     margin-left:15px;
 }
 
-header.menu-items{
+.menu-items{
 	display: inline-block;
 	color: #0088cc;
     	text-align: center;
     	clear: both;
 }
 
-.banner{
+header.banner{
     height:200px;
     background: #696969;
     margin-top: 60px;
