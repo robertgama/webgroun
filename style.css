@@ -23,8 +23,7 @@ body{	font-family: Century;
 	width: 100%;
 	background-color: rgba(1, 1, 1, 0.8);
 	position: fixed;
-	text-align: center;
-	margin: 0px 0px 5px 0px;
+	margin: 0 auto;
 	box-shadow: 0px 10px 10px #888888;
 	color: #FF8C00;
 }
