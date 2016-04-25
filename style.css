@@ -16,7 +16,7 @@ body{	font-family: Century;
     	padding-top: 5px;
     	border: 1px black;
     	margin-top: 60px;
-    	broder: solid black 1px;
+    	border:  1px black solid;
 }
 
 #top-menu{
