@@ -7,16 +7,16 @@ body{	font-family: Century;
 #wrapper{
 	position: relative;
 }
+
 .banner{
 	clear: both;
 	color: #0088cc;
 	height:200px;
     	background: #FFFFFF;
-    	margin: 15px 0px 0px 0px;
     	padding-top: 5px;
     	border: 1px black;
     	margin-top: 60px;
-    	border:  1px black solid;
+    	position: absolute;
 }
 
 #top-menu{
