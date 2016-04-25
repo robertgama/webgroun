@@ -29,8 +29,8 @@ body{	font-family: Century;
 
 .projectName{
     float: left;
-    margin-left: 15px;
     color: #FF8C00;
+    position: relative;
 }
 
 .menu-items{
