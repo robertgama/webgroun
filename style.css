@@ -16,7 +16,7 @@ body{	font-family: Century;
     	padding-top: 5px;
     	border: 1px black;
     	margin-top: 60px;
-    	position: absolute;
+    	position: relative;
 }
 
 #top-menu{
@@ -30,18 +30,17 @@ body{	font-family: Century;
 
 .projectName{
     float: left;
-    margin: 0px 50px 0px 30px;
+    margin: 0 auto;
     color: #FF8C00;
 }
 
 .menu-items{
-	display: inline-block;
+	display: inline;
 	color: #FF8C00;
     	text-align: center;
-    	margin: 0px 0px 0px 30px;
 }
 
-.crean {
+.clean {
 	clear: both;	
 }
 
