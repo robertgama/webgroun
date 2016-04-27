@@ -14,8 +14,9 @@ body{	font-family: Century;
 	height:200px;
     	background: #FFFFFF;
     	padding-top: 5px;
+    	margin-top: 65px;
     	border: 1px red solid;
-    	position: fixed;
+    	position: relative;
     	
 }
 
