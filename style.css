@@ -15,8 +15,8 @@ body{	font-family: Century;
     	background: #FFFFFF;
     	padding-top: 5px;
     	border: 1px red solid;
+    	position: fixed;
     	
-    	position: relative;
 }
 
 #top-menu{
