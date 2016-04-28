@@ -1,7 +1,7 @@
-body{	font-family: Century;
+body{font-family: Century;
 	margin: 0 auto;
-    	padding: 0 auto;
-    	height: 1700px;
+   	padding: 0 auto;
+   	text-align: center;
 }
 
 #wrapper{
@@ -12,17 +12,17 @@ body{	font-family: Century;
 	clear: both;
 	color: #0088cc;
 	height:200px;
-    	background: #FFFFFF;
-    	padding-top: 5px;
-    	border: 1px red solid;
-    	margin-top: 10px;
-    	position: relative;
-    	
+    background: #FFFFFF;
+    padding-top: 5px;
+   	border: 1px black;
+   	margin-top: 60px;
+   	position: relative;
 }
 
 .clean {
 	clear: both;	
 }
+
 
 
 
