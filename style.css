@@ -21,21 +21,6 @@ body{	font-family: Century;
     	
 }
 
-.affix {
-	top:0;
-	width: 100%;
-	z-index: 9999 !important;
-	}
-	
-.navbar {
-	margin-bottom: 0px;
-	color: #FF8C00;
-	}
-.affix ~ .container-fluid {
-	position: relative;
-	top: 50px;
-	}
-
 .clean {
 	clear: both;	
 }
