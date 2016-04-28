@@ -25,19 +25,5 @@ body{	font-family: Century;
 	clear: both;	
 }
 
-ul {
-	margin:5px;
-	padding: 10px;
-	position: absolute;
-	color: #FF8C00;
-}
-	
-ul li {
-	float: left;
-	position: block;
-	width: 120px;
-	color: #FF8C00;
-}
-
 
 
